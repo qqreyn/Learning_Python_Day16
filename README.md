@@ -23,6 +23,4 @@ Colorful Console App:
 - Install and use the `colorama` library  
 - Create a program that prints colored text and formatted output  
 - Use `python-dateutil` to parse and format dates  
-- Generate a `requirements.txt` file for your project  
-
-Focus on understanding how Python packages are installed, managed, and shared between projects.
+- Generate a `requirements.txt` file for your project
